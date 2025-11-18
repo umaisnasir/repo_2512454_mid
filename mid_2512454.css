@@ -1,0 +1,51 @@
+body{
+    font-family: Arial;
+}
+
+header{
+    background-color: lightseagreen;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.table{
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+    text-align: center;
+    border: 20px solid red;
+    margin-top: 5px;
+    padding: 30px;
+
+}
+
+th,td{
+     border: 2px solid black;
+     text-align: center;
+     padding: 8px;
+     margin: 0px;
+}
+
+.table a{
+    color: green;
+}
+
+.styled-window{
+    background-color: beige;
+    padding: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+footer{
+    background-color: gray;
+    text-align: center;
+    
+
+}
+
+footer small{
+    color: black;
+    
+}
